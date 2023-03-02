@@ -1,3 +1,8 @@
+.header {
+    flex: 1;
+    display: flex;
+}
+
 .section1,
 .footer {
     background: #1f2937;
