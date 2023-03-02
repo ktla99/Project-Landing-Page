@@ -54,3 +54,14 @@ a {
     font-style: italic;
     color: #1f2937;
 }
+
+.leftside {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+}
+
+.info {
+    display: flex;
+}
