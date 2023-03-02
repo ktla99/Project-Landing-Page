@@ -27,6 +27,11 @@ img {
 a {
     font-size: 18px;
     color: #e5e7eb;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
 }
 
 .logo {
