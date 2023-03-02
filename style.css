@@ -1,0 +1,51 @@
+.section1,
+.footer {
+    background: #1f2937;
+}
+
+img {
+    height: 100px;
+    width: 250px;
+}
+
+.note1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.note2 {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+a {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.registration,
+.section4 {
+    background-color: #3882f6;
+}
+
+.randominfo {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.section3 {
+    background-color: #e5e7eb;
+}
+
+.inspiringquote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
