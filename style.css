@@ -64,4 +64,5 @@ a {
 
 .info {
     display: flex;
+    justify-content: space-around;
 }
