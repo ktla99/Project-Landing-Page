@@ -78,9 +78,15 @@ ul {
     padding: 20px;
 }
 
-.quotes {
+.quote1 {
+    color: #f9faf8;
+    font-weight: 700;
+    font-size: 40px;
+}
 
-
+.quote2{
+    color: #e5e7eb;
+    font-size: 20px;
 }
 
 .randominfo {
