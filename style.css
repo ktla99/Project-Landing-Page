@@ -176,6 +176,10 @@ ul {
     align-items: center;
     gap: 50px;
     margin-bottom: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    color: #1f2937;
 }
 
 .randominfo {
