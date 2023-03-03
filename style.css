@@ -113,5 +113,6 @@ ul {
 .image3,
 .image4 {
     border-radius: 25px;
-    height: ;
+    height: 200px;
+    width: 200px;
 }
