@@ -91,7 +91,13 @@ ul {
 
 .signup {
     height: 50px;
-    width: 150px;
+    width: 200px;
+    border-radius: 15px;
+    border-color: #e5e7eb;
+    color: #e5e7eb;
+    background-color: #3882f6;
+    font-size: 28px;
+    margin-right: 100px;
 }
 
 .randominfo {
