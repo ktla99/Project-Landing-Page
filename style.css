@@ -70,6 +70,8 @@ ul {
     margin-bottom: 140px;
     margin-left: 200px;
     margin-right: 200px;
+    padding: 85px;
+    border-radius: 10px;
 }
 
 .footer {
