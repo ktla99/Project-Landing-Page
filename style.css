@@ -182,6 +182,16 @@ ul {
     color: #1f2937;
 }
 
+.boxes1,
+.boxes2,
+.boxes3,
+.boxes4 {
+    width: 200px;
+}
+
+
+
+
 .randominfo {
     display: flex;
     justify-content: center;
