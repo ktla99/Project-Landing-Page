@@ -71,12 +71,16 @@ ul {
 
 .section3 {
     background-color: #e5e7eb;
+    height: 400px;
 }
 
 .inspiringquote {
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
+    display: flex;
+    justify-content: center;
+    padding: 150px;
 }
 
 .leftside {
@@ -126,3 +130,4 @@ ul {
     align-items: center;
     padding: 40px;
 }
+
