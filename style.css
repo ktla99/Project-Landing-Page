@@ -89,6 +89,8 @@ ul {
     display: flex;
     justify-content:end;
     padding-right: 150px;
+    font-size: 25px;
+    font-weight: 600;
 }
 
 .leftside {
