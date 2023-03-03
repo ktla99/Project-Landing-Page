@@ -103,10 +103,6 @@ ul {
     align-items: center;
 }
 
-.container {
-    display: inline-flex;
-    flex-wrap: wrap;
-}
 
 .image1,
 .image2,
