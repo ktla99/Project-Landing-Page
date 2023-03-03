@@ -89,6 +89,11 @@ ul {
     font-size: 20px;
 }
 
+.signup {
+    height: 50px;
+    width: 150px;
+}
+
 .randominfo {
     font-size: 36px;
     font-weight: bolder;
