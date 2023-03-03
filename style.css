@@ -107,4 +107,14 @@ ul {
 
 .birds {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.midbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
