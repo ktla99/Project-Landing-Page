@@ -80,7 +80,15 @@ ul {
     color: #1f2937;
     display: flex;
     justify-content: center;
-    padding: 150px;
+    padding-top: 130px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.customer {
+    display: flex;
+    justify-content:end;
+    padding-right: 150px;
 }
 
 .leftside {
