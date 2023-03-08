@@ -76,6 +76,12 @@ a {
     border: 2px solid #3882f6;
 }
 
+.background {
+    height: 220px;
+    width: 500px;
+    margin-right: 150px;
+}
+
 .randominfo {
     font-size: 36px;
     font-weight: bolder;
