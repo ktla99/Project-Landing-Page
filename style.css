@@ -79,6 +79,14 @@ img {
     gap: 20px;
 }
 
+.image1,
+.image2,
+.image3,
+.image4 {
+    border-radius: 25px;
+    height: 200px;
+    width: 200px;
+}
 
 .registration,
 .section4 {
@@ -167,14 +175,6 @@ img {
 
 
 
-.image1,
-.image2,
-.image3,
-.image4 {
-    border-radius: 25px;
-    height: 200px;
-    width: 200px;
-}
 
 
 
