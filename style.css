@@ -63,12 +63,13 @@ a {
 
 .registration {
     display: inline-block;
-    width: 400px;
+    width: 100px;
     height: 32px;
     margin-top: 10px;
     color: #f9faf8;
     border-radius: 10px;
     border: 2px solid #3882f6;
+    background-color: #3882f6;
 }
 
 .background {
