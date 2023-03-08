@@ -60,6 +60,21 @@ a {
     color: #e5e7eb;
 }
 
+.registration,
+.section4 {
+    background-color: #3882f6;
+}
+
+.registration {
+    display: inline-block;
+    width: 400px;
+    height: 32px;
+    margin-top: 10px;
+    color: #f9faf8;
+    border-radius: 10px;
+    border: 2px solid #3882f6;
+}
+
 img {
     height: 220px;
     width: 500px;
@@ -140,20 +155,7 @@ img {
     border-radius: 10px;
 }
 
-.registration,
-.section4 {
-    background-color: #3882f6;
-}
 
-.registration {
-    display: inline-block;
-    width: 400px;
-    height: 32px;
-    margin-top: 10px;
-    color: #f9faf8;
-    border-radius: 10px;
-    border: 2px solid #3882f6;
-}
 
 
 
