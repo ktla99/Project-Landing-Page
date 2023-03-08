@@ -166,10 +166,14 @@ a {
 }
 
 .signup {
+    display: block;
+    padding-top: 10px;
+    text-align: center;
     height: 50px;
     width: 200px;
     border-radius: 15px;
     border-color: #e5e7eb;
+    border: 3px solid #e5e7eb;
     color: #e5e7eb;
     background-color: #3882f6;
     font-size: 28px;
