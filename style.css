@@ -66,6 +66,11 @@ img {
     margin-right: 150px;
 }
 
+.randominfo {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
 
 
 
@@ -127,11 +132,7 @@ img {
     margin-right: 100px;
 }
 
-.randominfo {
-    font-size: 36px;
-    font-weight: bolder;
-    color: #1f2937;
-}
+
 
 .section3 {
     background-color: #e5e7eb;
