@@ -20,6 +20,11 @@ body {
     margin-top: 10px;
 }
 
+.toprightlinks {
+    margin-right: 150px;
+}
+
+
 img {
     height: 220px;
     width: 500px;
@@ -148,10 +153,6 @@ ul {
 .info {
     display: flex;
     justify-content: space-between;
-}
-
-.toprightlinks {
-    margin-right: 150px;
 }
 
 .image1,
