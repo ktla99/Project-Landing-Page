@@ -45,7 +45,7 @@ a {
 .leftside {
     display: flex;
     flex-direction: column;
-    width: 300px;
+    max-width: 800px;
     height: 300px;
     margin-left: 150px;
 }
