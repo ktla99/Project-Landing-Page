@@ -91,9 +91,10 @@ a {
 .birds,
 .midbox {
     display: flex;
-    justify-content:space-between;
+    justify-content:center;
     align-items: center;
     color: #1f2937;
+    gap: 70px;
 }
 
 .image1,
