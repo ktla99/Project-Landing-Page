@@ -41,6 +41,14 @@ a {
     justify-content: space-between;
 }
 
+.leftside {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    margin-left: 150px;
+}
+
 img {
     height: 220px;
     width: 500px;
@@ -150,13 +158,6 @@ img {
     font-weight: 600;
 }
 
-.leftside {
-    display: flex;
-    flex-direction: column;
-    width: 300px;
-    height: 300px;
-    margin-left: 150px;
-}
 
 
 
