@@ -98,6 +98,13 @@ img {
     color: #1f2937;
 }
 
+.boxes1,
+.boxes2,
+.boxes3,
+.boxes4 {
+    width: 200px;
+}
+
 .registration,
 .section4 {
     background-color: #3882f6;
@@ -189,12 +196,7 @@ img {
 
 
 
-.boxes1,
-.boxes2,
-.boxes3,
-.boxes4 {
-    width: 200px;
-}
+
 
 
 
