@@ -121,6 +121,14 @@ img {
     padding-right: 400px;
 }
 
+.customer {
+    display: flex;
+    justify-content:end;
+    padding-right: 400px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
 .registration,
 .section4 {
     background-color: #3882f6;
@@ -185,13 +193,7 @@ img {
 
 
 
-.customer {
-    display: flex;
-    justify-content:end;
-    padding-right: 400px;
-    font-size: 25px;
-    font-weight: 600;
-}
+
 
 
 
