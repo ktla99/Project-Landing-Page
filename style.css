@@ -13,6 +13,13 @@ body {
     background: #1f2937;
 }
 
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
 img {
     height: 220px;
     width: 500px;
@@ -40,13 +47,6 @@ ul {
     list-style-type: none;
     display: flex;
     gap: 20px;
-}
-
-.logo {
-    font-size: 24px;
-    color: #f9faf8;
-    margin-left: 150px;
-    margin-top: 10px;
 }
 
 .registration,
