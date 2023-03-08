@@ -110,6 +110,17 @@ img {
     height: 400px;
 }
 
+.inspiringquote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+    padding-top: 130px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
 .registration,
 .section4 {
     background-color: #3882f6;
@@ -172,16 +183,7 @@ img {
 
 
 
-.inspiringquote {
-    font-size: 36px;
-    font-style: italic;
-    color: #1f2937;
-    display: flex;
-    justify-content: center;
-    padding-top: 130px;
-    padding-left: 400px;
-    padding-right: 400px;
-}
+
 
 .customer {
     display: flex;
