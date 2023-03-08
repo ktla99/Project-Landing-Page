@@ -36,6 +36,11 @@ a {
     text-decoration: none;
 }
 
+.info {
+    display: flex;
+    justify-content: space-between;
+}
+
 img {
     height: 220px;
     width: 500px;
@@ -153,10 +158,7 @@ img {
     margin-left: 150px;
 }
 
-.info {
-    display: flex;
-    justify-content: space-between;
-}
+
 
 .image1,
 .image2,
