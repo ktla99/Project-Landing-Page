@@ -129,6 +129,17 @@ img {
     font-weight: 600;
 }
 
+.section4 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 140px;
+    margin-bottom: 140px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 85px;
+    border-radius: 10px;
+}
+
 .registration,
 .section4 {
     background-color: #3882f6;
@@ -144,16 +155,7 @@ img {
     border: 2px solid #3882f6;
 }
 
-.section4 {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 140px;
-    margin-bottom: 140px;
-    margin-left: 200px;
-    margin-right: 200px;
-    padding: 85px;
-    border-radius: 10px;
-}
+
 
 .footer {
     padding: 20px;
