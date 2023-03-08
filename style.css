@@ -72,6 +72,12 @@ img {
     color: #1f2937;
 }
 
+.birds {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
 
 
 .registration,
@@ -170,12 +176,7 @@ img {
     width: 200px;
 }
 
-.birds {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-}
+
 
 .midbox {
     display: flex;
