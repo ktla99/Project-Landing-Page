@@ -88,6 +88,16 @@ img {
     width: 200px;
 }
 
+.midbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    margin-bottom: 150px;
+    padding: 50px;
+    color: #1f2937;
+}
+
 .registration,
 .section4 {
     background-color: #3882f6;
@@ -178,15 +188,6 @@ img {
 
 
 
-.midbox {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 200px;
-    margin-bottom: 150px;
-    padding: 50px;
-    color: #1f2937;
-}
 
 .boxes1,
 .boxes2,
