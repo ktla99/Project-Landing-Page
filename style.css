@@ -1,12 +1,16 @@
-body {
+* {
+    display: flex;
+    flex-direction: column;
     margin: 0;
+}
+
+body {
     font-family: 'Roboto';
 }
 
 .header {
     display: flex;
     justify-content: space-between;
-    padding-bottom: 100px;
 }
 
 .section1,
@@ -21,8 +25,11 @@ body {
     margin-top: 10px;
 }
 
-.toprightlinks {
-    margin-right: 150px;
+.top-right-links {
+    padding-bottom: 100px;
+    display: flex;
+    align-items: end;
+    flex-direction: row;
 }
 
 ul {
@@ -40,14 +47,23 @@ a {
 .info {
     display: flex;
     justify-content: space-between;
+    margin-left: -100px;
+    margin-right: -100px;
+    flex-direction: row;
 }
 
 .leftside {
     display: flex;
+    margin-left: 250px;
+    margin-bottom: 150px;
     flex-direction: column;
-    max-width: 800px;
-    height: 300px;
-    margin-left: 150px;
+}
+
+.kermit {
+    display: flex;
+    padding-left: 200px;
+    padding-right: 150px;
+
 }
 
 .note1 {
@@ -91,6 +107,7 @@ a {
 .birds,
 .midbox {
     display: flex;
+    flex-direction: row;
     justify-content:center;
     align-items: center;
     color: #1f2937;
@@ -118,6 +135,7 @@ a {
 }
 
 .section3 {
+    flex: 1;
     background-color: #e5e7eb;
     height: 400px;
 }
@@ -192,29 +210,6 @@ a {
     color: #e5e7eb;
     font-size: 18px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .randominfo {
